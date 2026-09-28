@@ -1,0 +1,54 @@
+{
+  "project": "Multimodal AI-Based Document Intelligence and Retrieval System",
+  "evaluation_version": "V2.2",
+  "dataset": {
+    "document": "EJ1172284.pdf",
+    "total_questions": 18,
+    "answerable_questions": 16,
+    "unanswerable_questions": 2
+  },
+  "retrieval_performance": {
+    "hit_at_1_percent": 87.5,
+    "recall_at_3_percent": 93.75,
+    "recall_at_5_percent": 93.75,
+    "mrr_percent": 88.54
+  },
+  "performance": {
+    "document_processing_seconds": 6.395,
+    "average_retrieval_seconds": 0.0309,
+    "chunks": 54,
+    "vectors": 54,
+    "tables": 33
+  },
+  "remaining_challenging_questions": [
+    {
+      "id": "Q04",
+      "issue": "Most frequently used mobile device",
+      "expected_page": 5,
+      "retrieved_pages": [
+        4,
+        4,
+        8,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "Q09",
+      "issue": "Most frequent usage location",
+      "expected_page": 7,
+      "retrieved_pages": [
+        4,
+        4,
+        8,
+        7,
+        8
+      ]
+    }
+  ],
+  "notes": [
+    "Metrics are recalculated on the 16 answerable questions.",
+    "Q15 and Q16 are unanswerable benchmark questions and are excluded from normal retrieval-success metrics.",
+    "The full RAG evaluation was skipped to avoid the additional local LLM runtime."
+  ]
+}
