@@ -276,8 +276,8 @@ A further research direction is to combine retrieval evidence, grounding signals
 
 **Mayur Nikam**
 
-Petroleum Engineering Student  
-MIT World Peace University (MIT-WPU), Pune
+Computer Science and Engineering (DATA SCIENCE) Student  
+PVPIT, Pune
 
 ---
 
