@@ -1,0 +1,186 @@
+[
+  {
+    "id": "Q01",
+    "question": "What was the main purpose of the study?",
+    "type": "direct_factual",
+    "expected_answer": "The study explored how advanced learners of English used mobile devices to develop learning experiences that met their needs and goals.",
+    "expected_pages": [
+      1
+    ],
+    "expected_evidence": "Abstract and study description."
+  },
+  {
+    "id": "Q02",
+    "question": "How many students participated in the study?",
+    "type": "numerical",
+    "expected_answer": "20 Polish university students of English philology participated.",
+    "expected_pages": [
+      1,
+      4
+    ],
+    "expected_evidence": "Abstract and Participants section."
+  },
+  {
+    "id": "Q03",
+    "question": "What method was used to collect the study data?",
+    "type": "methodology",
+    "expected_answer": "The data were collected through semi-structured interviews.",
+    "expected_pages": [
+      4,
+      5
+    ],
+    "expected_evidence": "Data collection and analysis section."
+  },
+  {
+    "id": "Q04",
+    "question": "What did the study participants use most frequently as mobile devices?",
+    "type": "direct_factual",
+    "expected_answer": "Smartphones were the most frequently used mobile devices.",
+    "expected_pages": [
+      5
+    ],
+    "expected_evidence": "Usage of mobile devices section and Table 1."
+  },
+  {
+    "id": "Q05",
+    "question": "For approximately how many years had participants been using mobile devices for English language study on average?",
+    "type": "numerical",
+    "expected_answer": "Approximately 3.80 years on average.",
+    "expected_pages": [
+      5
+    ],
+    "expected_evidence": "Usage of mobile devices section."
+  },
+  {
+    "id": "Q06",
+    "question": "What percentage of participants started using mobile devices for English study at university?",
+    "type": "numerical",
+    "expected_answer": "55% started using their mobile devices for English study at university.",
+    "expected_pages": [
+      5
+    ],
+    "expected_evidence": "Usage of mobile devices section."
+  },
+  {
+    "id": "Q07",
+    "question": "What were the main reasons students gave for using mobile devices to learn English?",
+    "type": "multi_evidence",
+    "expected_answer": "They regarded mobile devices as convenient, fast, and always ready to use; they also valued quick internet access and the ability to organize study materials and resources.",
+    "expected_pages": [
+      6
+    ],
+    "expected_evidence": "Reasons for using mobile devices section."
+  },
+  {
+    "id": "Q08",
+    "question": "Which language tools and mobile apps were reported as frequently used?",
+    "type": "list_extraction",
+    "expected_answer": "Examples included online dictionaries such as diki and ColorDict Dictionary, and apps such as Google Translate, Duolingo, and Fiszkoteka. Voscreen and WhatsApp were also reported by two students.",
+    "expected_pages": [
+      6,
+      7
+    ],
+    "expected_evidence": "Resources and tools section."
+  },
+  {
+    "id": "Q09",
+    "question": "Where did participants most frequently use their mobile devices for English learning?",
+    "type": "numerical",
+    "expected_answer": "13 participants (65%) used them most frequently in their leisure time, 6 (30%) in the classroom, and 1 equally in classroom and out-of-class study.",
+    "expected_pages": [
+      7
+    ],
+    "expected_evidence": "Mobile encounters section."
+  },
+  {
+    "id": "Q10",
+    "question": "What language skill or subsystem was practiced most frequently using mobile devices?",
+    "type": "direct_factual",
+    "expected_answer": "English vocabulary was practiced most frequently; some participants also mentioned pronunciation.",
+    "expected_pages": [
+      8
+    ],
+    "expected_evidence": "Language practiced section."
+  },
+  {
+    "id": "Q11",
+    "question": "What percentage of interviewees said mobile devices encouraged them to study English more or learn more effectively and efficiently?",
+    "type": "numerical",
+    "expected_answer": "75% of the interviewees (15 participants) expressed this advantageous effect.",
+    "expected_pages": [
+      8
+    ],
+    "expected_evidence": "Study performance section."
+  },
+  {
+    "id": "Q12",
+    "question": "What percentage of interviewees could not say whether mobile devices made their English learning more effective or efficient?",
+    "type": "numerical",
+    "expected_answer": "25% of interviewees (5 participants) were unable to say.",
+    "expected_pages": [
+      9
+    ],
+    "expected_evidence": "Study performance section."
+  },
+  {
+    "id": "Q13",
+    "question": "What limitations of the study did the author identify?",
+    "type": "multi_evidence",
+    "expected_answer": "The study had a small number of participants, the group was largely homogeneous because participants came from the same institution and all studied English, and the semi-structured interview was conducted only once.",
+    "expected_pages": [
+      9,
+      10
+    ],
+    "expected_evidence": "Discussion and conclusions, limitations."
+  },
+  {
+    "id": "Q14",
+    "question": "What did the author suggest teachers could do to make better use of mobile technology in language learning?",
+    "type": "multi_evidence",
+    "expected_answer": "Teachers could present the affordances of mobile technology, discuss them with students, select suitable mobile apps, and design in-class and out-of-class tasks that practice different language skills and subsystems.",
+    "expected_pages": [
+      9
+    ],
+    "expected_evidence": "Discussion and conclusions."
+  },
+  {
+    "id": "Q15",
+    "question": "According to the paper, what percentage of participants used mobile devices specifically for practicing English grammar?",
+    "type": "unanswerable",
+    "expected_answer": "The paper states that only a few students practiced grammar with mobile devices, but it does not provide a specific percentage.",
+    "expected_pages": [
+      8
+    ],
+    "expected_evidence": "Language practiced section says only a few students practiced grammar."
+  },
+  {
+    "id": "Q16",
+    "question": "How many participants were from universities in the United States?",
+    "type": "unanswerable",
+    "expected_answer": "The paper does not report any participants from U.S. universities. The participants were Polish university students of English philology.",
+    "expected_pages": [
+      4
+    ],
+    "expected_evidence": "Participants section."
+  },
+  {
+    "id": "Q17",
+    "question": "What was the average age of all study participants?",
+    "type": "numerical",
+    "expected_answer": "The participants were on average 22.22 years old.",
+    "expected_pages": [
+      4
+    ],
+    "expected_evidence": "Participants section."
+  },
+  {
+    "id": "Q18",
+    "question": "What were the six thematic categories identified from the data?",
+    "type": "list_extraction",
+    "expected_answer": "Usage of mobile devices; reasons for using mobile devices; resources and tools; mobile encounters; language practiced; and study performance.",
+    "expected_pages": [
+      5
+    ],
+    "expected_evidence": "Findings section."
+  }
+]
